@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DocumentElement>
+  <T>
+    <SelTabID>0</SelTabID>
+    <DDLMsg>Country</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>1</SelTabID>
+    <DDLMsg>City</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>2</SelTabID>
+    <DDLMsg>State</DDLMsg>
+  </T>
+			
+  <T>
+    <SelTabID>4</SelTabID>
+    <DDLMsg>Department</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>5</SelTabID>
+    <DDLMsg>Designation</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>6</SelTabID>
+    <DDLMsg>Qualification</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>7</SelTabID>
+    <DDLMsg>FinancialYear</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>8</SelTabID>
+    <DDLMsg>Status</DDLMsg>
+  </T>
+  <!--<T>
+    <SelTabID>9</SelTabID>
+    <DDLMsg>ComponentType</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>11</SelTabID>
+    <DDLMsg>AllCity</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>12</SelTabID>
+    <DDLMsg>Page</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>13</SelTabID>
+    <DDLMsg>Module</DDLMsg>
+  </T>-->
+  <T>
+    <SelTabID>14</SelTabID>
+    <DDLMsg>UserName</DDLMsg>
+  </T>
+  <!--<T>
+    <SelTabID>15</SelTabID>
+    <DDLMsg>CityByState</DDLMsg>
+  </T>-->
+  <T>
+    <SelTabID>16</SelTabID>
+    <DDLMsg>GroupCompany</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>17</SelTabID>
+    <DDLMsg>Company</DDLMsg>
+  </T>
+  <!--<T>
+    <SelTabID>18</SelTabID>
+    <DDLMsg>Product</DDLMsg>
+  </T>-->
+  <T>
+    <SelTabID>20</SelTabID>
+    <DDLMsg>Branch</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>21</SelTabID>
+    <DDLMsg>UserType</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>23</SelTabID>
+    <DDLMsg>ProdUSerUserType</DDLMsg>
+  </T>
+  <!--<T>
+    <SelTabID>24</SelTabID>
+    <DDLMsg>BranchByAdmin</DDLMsg>
+  </T>-->
+  <T>
+    <SelTabID>25</SelTabID>
+    <DDLMsg>Month</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>26</SelTabID>
+    <DDLMsg>DepartmentRole</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>27</SelTabID>
+    <DDLMsg>Designation</DDLMsg>
+  </T>
+  <!--<T>
+    <SelTabID>28</SelTabID>
+    <DDLMsg>All Designation</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>30</SelTabID>
+    <DDLMsg>HRModule</DDLMsg>
+  </T>-->
+  <T>
+    <SelTabID>31</SelTabID>
+    <DDLMsg>CompWiswProd</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>32</SelTabID>
+    <DDLMsg>Client User Name</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>33</SelTabID>
+    <DDLMsg>SubProduct</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>38</SelTabID>
+    <DDLMsg>Question Set</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>39</SelTabID>
+    <DDLMsg>Question Type</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>47</SelTabID>
+    <DDLMsg>User</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>54</SelTabID>
+    <DDLMsg>Client State</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>55</SelTabID>
+    <DDLMsg>ClientCity</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>76</SelTabID>
+    <DDLMsg>Question Category</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>78</SelTabID>
+    <DDLMsg>Level</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>79</SelTabID>
+    <DDLMsg>Level Designation</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>80</SelTabID>
+    <DDLMsg>Employee</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>81</SelTabID>
+    <DDLMsg>Grade</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>82</SelTabID>
+    <DDLMsg>Interviewer</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>83</SelTabID>
+    <DDLMsg>User Employee</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>84</SelTabID>
+    <DDLMsg>Designation</DDLMsg>
+  </T>
+  <!--<T>
+    <SelTabID>85</SelTabID>
+    <DDLMsg>Posting City</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>86</SelTabID>
+    <DDLMsg>Loader Employee</DDLMsg>
+  </T>
+   <T>
+    <SelTabID>88</SelTabID>
+    <DDLMsg>Reporting Name</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>89</SelTabID>
+    <DDLMsg>Marital Status</DDLMsg>
+  </T>-->
+  <T>
+    <SelTabID>90</SelTabID>
+    <DDLMsg>Sex</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>91</SelTabID>
+    <DDLMsg>Function</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>92</SelTabID>
+    <DDLMsg>Level</DDLMsg>
+  </T>
+	<T>
+    <SelTabID>97</SelTabID>
+    <DDLMsg>Designation Level</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>101</SelTabID>
+    <DDLMsg>Client Country</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>102</SelTabID>
+    <DDLMsg>DesigSequence</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>103</SelTabID>
+    <DDLMsg>Designation</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>106</SelTabID>
+    <DDLMsg>Institute</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>107</SelTabID>
+    <DDLMsg>Position</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>108</SelTabID>
+    <DDLMsg>Designation</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>109</SelTabID>
+    <DDLMsg> Name</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>110</SelTabID>
+    <DDLMsg>Prefix</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>112</SelTabID>
+    <DDLMsg> Function</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>113</SelTabID>
+    <DDLMsg>Question Level</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>114</SelTabID>
+    <DDLMsg>Question Set</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>122</SelTabID>
+    <DDLMsg> Country</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>123</SelTabID>
+    <DDLMsg> State</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>124</SelTabID>
+    <DDLMsg> City</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>134</SelTabID>
+    <DDLMsg>Employee Training</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>135</SelTabID>
+    <DDLMsg>Training Type</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>136</SelTabID>
+    <DDLMsg>Institute Name</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>137</SelTabID>
+    <DDLMsg>Trainer Name</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>138</SelTabID>
+    <DDLMsg>Trainer Name</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>139</SelTabID>
+    <DDLMsg>Employee</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>140</SelTabID>
+    <DDLMsg>Topic</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>146</SelTabID>
+    <DDLMsg>Month</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>158</SelTabID>
+    <DDLMsg>Training Mode</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>162</SelTabID>
+    <DDLMsg>Institute Catagory</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>166</SelTabID>
+    <DDLMsg>Topic Name</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>167</SelTabID>
+    <DDLMsg>Topic Name</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>168</SelTabID>
+    <DDLMsg>Topic Name</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>169</SelTabID>
+    <DDLMsg>Participant Type</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>170</SelTabID>
+    <DDLMsg>Institute List</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>171</SelTabID>
+    <DDLMsg>Employee Level</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>172</SelTabID>
+    <DDLMsg>Topic List</DDLMsg>
+  </T>
+  <T>
+    <SelTabID>173</SelTabID>
+    <DDLMsg>User Type</DDLMsg>
+  </T>
+	<T>
+		<SelTabID>174</SelTabID>
+		<DDLMsg>Test Type</DDLMsg>
+	</T>
+	<T>
+		<SelTabID>175</SelTabID>
+		<DDLMsg>Question Set</DDLMsg>
+	</T>
+	<T>
+		<SelTabID>176</SelTabID>
+		<DDLMsg>Question Group Set</DDLMsg>
+	</T>
+	<T>
+		<SelTabID>177</SelTabID>
+		<DDLMsg>Question Group</DDLMsg>
+	</T>
+	<T>
+		<SelTabID>178</SelTabID>
+		<DDLMsg>Question Set</DDLMsg>
+	</T>
+	<T>
+		<SelTabID>179</SelTabID>
+		<DDLMsg>Feedback Question Group</DDLMsg>
+	</T>
+	<T>
+		<SelTabID>180</SelTabID>
+		<DDLMsg>Training Attendees</DDLMsg>
+	</T>
+</DocumentElement>
